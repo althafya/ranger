@@ -10,3 +10,4 @@ Technical Requirement.
 5. mysql-python Packages
 6. Git account
 8. JS pluggins for Front end.
+9. need add django image tools https://pypi.python.org/pypi/django-image-tools/0.8.b3 
